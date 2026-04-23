@@ -1,6 +1,4 @@
-portfolio/
- ├ index.html
- └ style.css
+
  <!DOCTYPE html>
 <html lang="ja">
 <head>
