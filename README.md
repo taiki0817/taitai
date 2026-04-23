@@ -24,18 +24,3 @@ portfolio/
   </footer>
 </body>
 </html>
-
-body {
-  margin: 0;
-  font-family: sans-serif;
-}
-
-header {
-  padding: 20px;
-}
-
-@media (max-width: 768px) {
-  header {
-    text-align: center;
-  }
-}
